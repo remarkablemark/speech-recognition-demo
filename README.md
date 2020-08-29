@@ -1,5 +1,9 @@
 # Speech Recognition Demo
 
+Demo that transcribes audio to text using [SpeechRecognition](https://pypi.org/project/SpeechRecognition/).
+
+See [blog post](https://remarkablemark.org/blog/2020/08/24/python-speech-recognition/) for more information.
+
 ## Prerequisites
 
 [Python 3](https://www.python.org/):
