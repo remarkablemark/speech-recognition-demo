@@ -45,12 +45,10 @@ pip3 freeze > requirements.txt
 
 ## Run
 
-Create an audio file named `audio.wav` in the current working directory.
-
-Run script to convert `audio.wav` to text:
+Run script to convert file `audio.wav` to text:
 
 ```sh
-python3 transcribe.py
+python3 transcribe.py audio.wav
 ```
 
 ## License
