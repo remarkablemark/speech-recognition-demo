@@ -51,6 +51,12 @@ Run script to convert file `audio.wav` to text:
 python3 transcribe.py audio.wav
 ```
 
+Optional: save transcription to file `transcript.txt`:
+
+```sh
+python3 transcribe.py audio.wav transcript.txt
+```
+
 ## License
 
 [MIT](LICENSE)
