@@ -23,6 +23,13 @@ virtualenv --version
 
 ## Install
 
+Clone repository:
+
+```sh
+git clone https://github.com/remarkablemark/speech-recognition-demo.git
+cd speech-recognition-demo
+```
+
 Create and activate project virtual environment:
 
 ```sh
